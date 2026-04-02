@@ -9,10 +9,10 @@ window.__DATA__.promocoes = {
       { "texto": "Noite do Rodízio — carnes e acompanhamentos à vontade", "destaque": true }
     ],
     "quinta": [
-      { "texto": "Quinta do rodízio, por 59,90", "destaque": false }
+      { "texto": "Quinta do rodízio por 59,90", "destaque": false }
     ],
     "sexta": [
-      { "texto": "Dia de camarão na moranga", "destaque": true }
+      { "texto": "Sexta Especial — cardápio diferenciado e clima de fim de semana", "destaque": true }
     ],
     "sabado": [
       { "texto": "Sábado Completo — almoço especial e noite com programação", "destaque": false }
@@ -38,8 +38,8 @@ window.__DATA__.promocoes = {
     },
     {
       "dia": "Quinta",
-      "titulo": "Happy Hour",
-      "descricao": "Petiscos, porções e drinks com preços especiais a partir das 18h",
+      "titulo": "Noite do Rodízio",
+      "descricao": "Quinta do rodízio por 59,90",
       "icone": "glass",
       "ativo": true
     },

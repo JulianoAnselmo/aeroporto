@@ -8,7 +8,7 @@
       { "texto": "Noite do Rodízio — carnes e acompanhamentos à vontade", "destaque": true }
     ],
     "quinta": [
-      { "texto": "Happy Hour — petiscos e drinks com preços especiais", "destaque": false }
+      { "texto": "Quinta do rodízio por 59,90", "destaque": false }
     ],
     "sexta": [
       { "texto": "Sexta Especial — cardápio diferenciado e clima de fim de semana", "destaque": true }
@@ -37,8 +37,8 @@
     },
     {
       "dia": "Quinta",
-      "titulo": "Happy Hour",
-      "descricao": "Petiscos, porções e drinks com preços especiais a partir das 18h",
+      "titulo": "Noite do Rodízio",
+      "descricao": "Quinta do rodízio por 59,90",
       "icone": "glass",
       "ativo": true
     },
