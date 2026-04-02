@@ -1,0 +1,131 @@
+window.__DATA__ = window.__DATA__ || {};
+window.__DATA__.site = {
+  "hero": {
+    "titulo": "Restaurante Aeroporto",
+    "frase": "Onde cada encontro vira uma boa história",
+    "subtitulo": "Tradição, sabor e bons momentos em Jaboticabal desde sempre. Venha viver a experiência que já conquistou a cidade.",
+    "ctas": {
+      "cardapio": "Ver Cardápio",
+      "whatsapp": "Reservar Mesa",
+      "localizacao": "Como Chegar"
+    }
+  },
+  "sobre": {
+    "titulo": "Uma história que se conta à mesa",
+    "texto": "O Restaurante Aeroporto é parte da história gastronômica de Jaboticabal. Localizado junto à Estância Santa Amélia, em um espaço arborizado e acolhedor, o restaurante se tornou ponto de encontro de famílias, amigos e colegas que buscam boa comida, bebida gelada e momentos que valem a pena.",
+    "texto2": "Aqui, cada refeição é uma experiência. Do almoço especial de domingo ao happy hour da semana, do rodízio às noites com cardápio diferenciado — o Aeroporto entrega mais que pratos bem feitos. Entrega convivência, tradição e aquele clima que faz você querer voltar.",
+    "destaque": "Mais que um restaurante. Um lugar onde Jaboticabal se encontra."
+  },
+  "diferenciais": [
+    {
+      "icone": "tradition",
+      "titulo": "Tradição Local",
+      "descricao": "Anos de história construindo a referência gastronômica de Jaboticabal"
+    },
+    {
+      "icone": "ambiente",
+      "titulo": "Ambiente Agradável",
+      "descricao": "Espaço arborizado e acolhedor, perfeito para todas as ocasiões"
+    },
+    {
+      "icone": "cardapio",
+      "titulo": "Cardápio Variado",
+      "descricao": "De pratos tradicionais a criações da casa, com opções para todos os gostos"
+    },
+    {
+      "icone": "happyhour",
+      "titulo": "Happy Hour",
+      "descricao": "Petiscos, drinks e cerveja gelada para curtir com os amigos"
+    },
+    {
+      "icone": "eventos",
+      "titulo": "Espaço para Eventos",
+      "descricao": "Área privativa para aniversários, confraternizações e encontros especiais"
+    },
+    {
+      "icone": "almoco",
+      "titulo": "Almoço Especial",
+      "descricao": "Buffet completo aos fins de semana com o melhor da culinária regional"
+    }
+  ],
+  "experiencias": [
+    {
+      "titulo": "Almoço de Domingo",
+      "descricao": "A tradição que reúne a família à mesa. Buffet variado com pratos que contam a história da boa gastronomia do interior.",
+      "icone": "sun",
+      "imagem": "imagens/almoco-domingo.jpg"
+    },
+    {
+      "titulo": "Happy Hour",
+      "descricao": "Cerveja gelada, petiscos caprichados e a melhor companhia. O ponto de encontro de quem sabe curtir.",
+      "icone": "glass",
+      "imagem": "imagens/happy-hour.jpg"
+    },
+    {
+      "titulo": "Noites Especiais",
+      "descricao": "Cardápio diferenciado, ambiente acolhedor e aquele clima que faz a noite render. De terça a sábado.",
+      "icone": "moon",
+      "imagem": "imagens/noite-especial.jpg"
+    },
+    {
+      "titulo": "Encontros em Família",
+      "descricao": "Espaço para todas as gerações se reunirem com conforto, boa comida e memórias que ficam.",
+      "icone": "family",
+      "imagem": "imagens/familia.jpg"
+    },
+    {
+      "titulo": "Comemorações",
+      "descricao": "Aniversários, conquistas, datas especiais. Aqui, cada brinde tem o cenário que merece.",
+      "icone": "celebrate",
+      "imagem": "imagens/comemoracao.jpg"
+    }
+  ],
+  "depoimentos": [
+    {
+      "texto": "Ambiente super agradável e comida de qualidade. O rodízio é excelente e o atendimento sempre muito bom.",
+      "autor": "Avaliação Google",
+      "estrelas": 5
+    },
+    {
+      "texto": "Melhor lugar para almoço de domingo em Jaboticabal. Buffet variado e espaço muito gostoso para ir com a família.",
+      "autor": "Avaliação Google",
+      "estrelas": 5
+    },
+    {
+      "texto": "Ótimo happy hour! Petiscos muito bem feitos, cerveja gelada e um clima agradável demais. Voltaremos com certeza.",
+      "autor": "Avaliação Google",
+      "estrelas": 5
+    },
+    {
+      "texto": "Local tradicional e muito bem cuidado. Cardápio variado, preço justo e atendimento nota 10.",
+      "autor": "Avaliação Google",
+      "estrelas": 4
+    }
+  ],
+  "horarios": [
+    { "dia": "Segunda-feira", "abreviado": "Seg", "horario": "Fechado", "aberto": false },
+    { "dia": "Terça-feira", "abreviado": "Ter", "horario": "18:00 – 23:00", "aberto": true },
+    { "dia": "Quarta-feira", "abreviado": "Qua", "horario": "18:00 – 23:00", "aberto": true },
+    { "dia": "Quinta-feira", "abreviado": "Qui", "horario": "18:00 – 23:00", "aberto": true },
+    { "dia": "Sexta-feira", "abreviado": "Sex", "horario": "17:00 – 00:00", "aberto": true, "badge": "Horário Estendido" },
+    { "dia": "Sábado", "abreviado": "Sáb", "horario": "11:00 – 00:00", "aberto": true, "badge": "Almoço e Noite" },
+    { "dia": "Domingo", "abreviado": "Dom", "horario": "11:00 – 17:00", "aberto": true, "badge": "Almoço Especial" }
+  ],
+  "contato": {
+    "endereco": "Av. Dr. Lafranchi, 1 - Planalto do Bosque, Jaboticabal - SP, 14873-100",
+    "telefone": "(16) 3204-4113",
+    "whatsapp": "5516320441113",
+    "instagram": "@restaurante_aeroporto",
+    "instagram_url": "https://www.instagram.com/restaurante_aeroporto/",
+    "google_maps_embed": "https://www.google.com/maps?q=-21.25478,-48.39215&output=embed",
+    "google_maps_link": "https://www.google.com/maps/dir/?api=1&destination=-21.25478,-48.39215"
+  },
+  "galeria": [
+    { "src": "imagens/hero-bg.png", "alt": "Jardim com ponte, lago e bambuzal", "categoria": "ambiente" },
+    { "src": "imagens/sobre.png", "alt": "Área externa com mesas e guarda-sóis durante o dia", "categoria": "ambiente" },
+    { "src": "imagens/galeria/salao-noturno.png", "alt": "Salão noturno elegante com cortinas e taças", "categoria": "ambiente" },
+    { "src": "imagens/galeria/noite-iluminada.png", "alt": "Vista noturna com iluminação verde nas árvores", "categoria": "momentos" },
+    { "src": "imagens/galeria/terraço-jardim.png", "alt": "Terraço com jardim, guarda-sol e gramado verde", "categoria": "ambiente" }
+  ]
+}
+;
